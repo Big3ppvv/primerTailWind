@@ -1,0 +1,64 @@
+body{
+    background-image: url("images/OIG.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 100%;
+    width: 100%;
+}
+
+div{
+    margin: auto;
+    margin-top: 50px;
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    width: 80vw;
+    height: 170vh;
+    border: solid black;
+    border-radius: 20px;
+}
+
+h2{
+    position: relative;
+    bottom: 210px
+}
+
+#background-div-image{
+    overflow:scroll;
+    width: 100%;
+    height: 500px;
+    border-radius: 10px;
+}
+
+#character-picture{
+    position: relative;
+    bottom: 200px;
+    margin: auto;
+    width: 250px;
+    border:solid red;
+    border-radius: 55%;
+}
+span{
+    color: chartreuse;
+}
+
+
+.position img{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+}
+
+.position h2{
+    display: inline;
+    text-align: center;
+    right: 7px;
+    top: 3px;
+}
+
+
+.specific-content{
+    margin-left: 65px;
+    margin-right: 60px;
+}
