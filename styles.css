@@ -1,0 +1,12 @@
+#gradient-p{
+    background: linear-gradient(rgb(74, 234, 115), rgb(173, 171, 171));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; 
+}
+
+h2{
+    font-family: 'Kalnia', serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Work Sans', sans-serif;
+}
